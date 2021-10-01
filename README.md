@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-Mi anotación del readme en el repositorio para que se puedan administrar versiones
+Mi anotación del readme en el repositorio para que se puedan administrar versiones.
